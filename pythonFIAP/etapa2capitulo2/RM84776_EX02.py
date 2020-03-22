@@ -24,5 +24,5 @@ if media_notas_impares > media_notas_pares:
 elif media_notas_pares > media_notas_impares:
     print("GRUPO COM MAIOR NOTA: PAR")
 else:
-    print("GRUPO COM MAIOR NOTA: EMPATE (AMTES TEM A MESMA NOTA MEDIA)")
+    print("GRUPO COM MAIOR NOTA: EMPATE (AMBOS TEM A MESMA NOTA MEDIA)")
 
