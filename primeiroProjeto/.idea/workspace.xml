@@ -25,11 +25,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projetos\FIAP\python\primeiroProjeto\etapa2capitulo1" />
       <recent name="D:\Projetos\FIAP\python\primeiroProjeto" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.calculadora">
-    <configuration name="calculadora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.RM84776_EX03 (1)">
+    <configuration name="RM84776_EX01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="primeiroProjeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +38,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etapa2capitulo2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculadora.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etapa2capitulo2/RM84776_EX01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +51,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="programa_teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RM84776_EX02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="primeiroProjeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etapa2capitulo2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programa_teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etapa2capitulo2/RM84776_EX02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +72,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="velocidade_media" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="RM84776_EX03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="primeiroProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etapa2capitulo2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etapa2capitulo2/RM84776_EX03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="primeiroProjeto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +105,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/velocidade_media.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop_for.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="primeiroProjeto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop_while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,9 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calculadora" />
-        <item itemvalue="Python.velocidade_media" />
-        <item itemvalue="Python.programa_teste" />
+        <item itemvalue="Python.RM84776_EX03 (1)" />
+        <item itemvalue="Python.RM84776_EX02 (1)" />
+        <item itemvalue="Python.RM84776_EX01 (1)" />
+        <item itemvalue="Python.loop_for" />
+        <item itemvalue="Python.loop_while" />
       </list>
     </recent_temporary>
   </component>
@@ -114,30 +159,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1584821840761">
+    <state width="2539" height="155" key="GridCell.Tab.0.bottom" timestamp="1584849139320">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
-    <state width="1362" height="266" key="GridCell.Tab.0.bottom/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584821840761" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1584821840760">
+    <state width="2539" height="155" key="GridCell.Tab.0.bottom/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849139320" />
+    <state width="2539" height="155" key="GridCell.Tab.0.center" timestamp="1584849139320">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.center/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
-    <state width="1362" height="266" key="GridCell.Tab.0.center/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584821840760" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1584821840760">
+    <state width="2539" height="155" key="GridCell.Tab.0.center/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849139320" />
+    <state width="2539" height="155" key="GridCell.Tab.0.left" timestamp="1584849139320">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.left/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148277" />
-    <state width="1362" height="266" key="GridCell.Tab.0.left/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584821840760" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1584821840760">
+    <state width="2539" height="155" key="GridCell.Tab.0.left/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849139320" />
+    <state width="2539" height="155" key="GridCell.Tab.0.right" timestamp="1584849139320">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.right/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
-    <state width="1362" height="266" key="GridCell.Tab.0.right/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584821840760" />
+    <state width="2539" height="155" key="GridCell.Tab.0.right/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849139320" />
     <state x="981" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1584820232515">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="981" y="349" key="com.intellij.ide.util.TipDialog/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584596854905" />
     <state x="981" y="349" key="com.intellij.ide.util.TipDialog/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584820232515" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1584835664170">
+      <screen x="0" y="0" width="2560" height="1050" />
+    </state>
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584835664170" />
   </component>
 </project>
