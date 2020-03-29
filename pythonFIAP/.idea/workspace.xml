@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bef6cf63-51f0-424e-8744-431e5c04dde8" name="Default Changelist" comment="" />
+    <list default="true" id="bef6cf63-51f0-424e-8744-431e5c04dde8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testes/funcoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/modulo/calculadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testes/modulo/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +42,7 @@
       <recent name="D:\Projetos\FIAP\python\primeiroProjeto" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.RM84776_EX01 (1)">
+  <component name="RunManager" selected="Python.teste">
     <configuration name="RM84776_EX01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFIAP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,27 +56,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etapa2capitulo2/RM84776_EX01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RM84776_EX02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonFIAP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/etapa2capitulo2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/etapa2capitulo2/RM84776_EX02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop_for" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="funcoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFIAP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projetos\FIAP\python\primeiroProjeto\testes\loop_for.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes/funcoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonFIAP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +114,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Projetos\FIAP\python\primeiroProjeto\testes\loop_while.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes/list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonFIAP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testes/modulo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testes/modulo/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.funcoes" />
+        <item itemvalue="Python.list" />
         <item itemvalue="Python.RM84776_EX01 (1)" />
         <item itemvalue="Python.RM84776_EX03 (1)" />
-        <item itemvalue="Python.RM84776_EX02 (1)" />
-        <item itemvalue="Python.loop_for" />
-        <item itemvalue="Python.loop_while" />
       </list>
     </recent_temporary>
   </component>
@@ -166,38 +172,44 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2539" height="155" key="GridCell.Tab.0.bottom" timestamp="1584850094947">
+    <state width="2539" height="155" key="GridCell.Tab.0.bottom" timestamp="1585510410553">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.bottom/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
     <state width="2539" height="155" key="GridCell.Tab.0.bottom/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584850094947" />
-    <state width="2539" height="155" key="GridCell.Tab.0.center" timestamp="1584850094946">
+    <state width="2539" height="155" key="GridCell.Tab.0.bottom/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585510410553" />
+    <state width="2539" height="155" key="GridCell.Tab.0.center" timestamp="1585510410552">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.center/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
     <state width="2539" height="155" key="GridCell.Tab.0.center/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584850094946" />
-    <state width="2539" height="155" key="GridCell.Tab.0.left" timestamp="1584850094946">
+    <state width="2539" height="155" key="GridCell.Tab.0.center/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585510410552" />
+    <state width="2539" height="155" key="GridCell.Tab.0.left" timestamp="1585510410552">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.left/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148277" />
     <state width="2539" height="155" key="GridCell.Tab.0.left/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584850094946" />
-    <state width="2539" height="155" key="GridCell.Tab.0.right" timestamp="1584850094947">
+    <state width="2539" height="155" key="GridCell.Tab.0.left/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585510410552" />
+    <state width="2539" height="155" key="GridCell.Tab.0.right" timestamp="1585510410552">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state width="1362" height="266" key="GridCell.Tab.0.right/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584597148278" />
     <state width="2539" height="155" key="GridCell.Tab.0.right/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584850094947" />
+    <state width="2539" height="155" key="GridCell.Tab.0.right/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585510410552" />
     <state x="781" y="167" key="SettingsEditor" timestamp="1584849835233">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="781" y="167" key="SettingsEditor/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849835233" />
-    <state x="981" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1584849763994">
+    <state x="981" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1585502633867">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="981" y="349" key="com.intellij.ide.util.TipDialog/-1366.171.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584596854905" />
     <state x="981" y="349" key="com.intellij.ide.util.TipDialog/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584849763994" />
-    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1584835664170">
+    <state x="981" y="349" key="com.intellij.ide.util.TipDialog/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585502633867" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1585503689264">
       <screen x="0" y="0" width="2560" height="1050" />
     </state>
     <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/-1366.191.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1584835664170" />
+    <state x="943" y="227" width="672" height="678" key="search.everywhere.popup/2560.144.1366.738/0.0.2560.1050@0.0.2560.1050" timestamp="1585503689264" />
   </component>
 </project>
